@@ -1,6 +1,6 @@
 # Olá Pessoal! :earth_americas: :rocket:
 
-Meu nome é Mailson Almeida, atualmente estou concluindo minha graduação em **Sistemas de Informação**, prevista para 2024, inicei meus estudo estudos em programação em 2023 no **Desenvolvimento de Software Back-end** na [@cubosacademy](https://cubos.academy/), onde fui contemplado com uma bolsa de estudos disponibilizada pela [Potência Tech](https://potenciatech.com.br/), fruto da parceria entre a Cubos Academy e Ifood.
+Meu nome é Mailson Almeida, atualmente estou concluindo minha graduação em **Sistemas de Informação**, prevista para 2024, iniciei meus estudos em programação em 2023 no **Desenvolvimento de Software Back-end** na [@cubosacademy](https://cubos.academy/), onde fui contemplado com uma bolsa de estudos disponibilizada pela [Potência Tech](https://potenciatech.com.br/), fruto da parceria entre a Cubos Academy e Ifood.
 
 ## :triangular_flag_on_post: Para me encontrar: 
 
